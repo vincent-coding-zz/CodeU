@@ -11,5 +11,5 @@ Please run the "launcher.py" file in a terminal.
 <img src="http://image.noelshack.com/fichiers/2019/13/3/1553717121-1.png">
 Then execute the command `python3 launcher.py`.
 <img src="http://image.noelshack.com/fichiers/2019/13/3/1553717496-capture-du-2019-03-27-21-11-18.png">
-This should give you a window like this (screenshot from the first version)
+This should give you a window like this (screenshot from the first version)<br />
 <img src="http://image.noelshack.com/fichiers/2019/13/3/1553717703-kazam-screenshot-00000.png">
