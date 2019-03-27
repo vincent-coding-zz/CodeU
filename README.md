@@ -4,3 +4,4 @@ CodeU is a software created by vincent-coding. It is developed in Python. It all
 
 <center><h2>Turorial</h2></center><br />
 Please run the "launcher.py" file in a terminal.
+<img src="http://image.noelshack.com/fichiers/2019/13/3/1553717121-1.png">
