@@ -1,3 +1,13 @@
+# CodeU
+# Version 1.0
+# Licences : MIT
+# Created by vincent-coding
+
+# Si vous décidez d'utiliser le code source, mentionnez-moi comme créateur de base !
+# If you decide to use the source code, please mention me as the basic creator!
+
+# SOURCE CODES
+
 # !usr/bin/env python
 # -*- coding: utf-8 -*-
 
