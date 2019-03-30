@@ -1,7 +1,7 @@
 Hey! Hey!
 Thank you for installing my software.
 Here are some tips to make the most of it.
-1) Check that the export file exists!
+1) Check that the export folder exists!
 2) Make sure you have the latest version of the software
 3) Check that JGeckoU is correctly installed.
 4) The file you obtain in the export must absolutely be placed in the "code" folder of JGeckoU. Because the software creates a file that JGeckoU can read.
